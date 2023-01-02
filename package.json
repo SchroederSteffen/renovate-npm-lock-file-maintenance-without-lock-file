@@ -1,0 +1,10 @@
+{
+  "name": "renovate-npm-lock-file-maintenance-without-lock-file",
+  "version": "1.0.0",
+  "description": "Reproduction of Renovate's Lock File Maintenance with a Lock File",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchroederSteffen/renovate-npm-lock-file-maintenance-without-lock-file.git"
+  }
+}
